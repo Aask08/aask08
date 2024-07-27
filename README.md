@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Aas Khan</h1>
 <h3 align="center">A passionate software Engineering from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/148866485-8fb1c876-9a8f-4d6a-98dc-08c4981ea78">
-
+<img align="right"  width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aask08&label=Profile%20views&color=0e75b6&style=flat" alt="aask08" /> </p>
 
 - 🌱 I’m currently learning **python , machine learning**
@@ -13,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aas_khan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aas_khan08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. aas khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. aas khan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mdaaskhan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mdaaskhan786a" height="30" width="40" /></a>
-<a href="https://fb.com/aas khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aas khan" height="30" width="40" /></a>
-<a href="https://instagram.com/aaskhan_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaskhan_08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-aas-khan-3b7952201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. aas khan" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mdaaskhan786a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mdaaskhan786a" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100068454077666 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aas khan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aaskhan_08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaskhan_08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdaaskhan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdaaskhan786" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdaaskhan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdaaskhan786" height="30" width="40" /></a>
 <a href="https://discord.gg/aas_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aas_08" height="30" width="40" /></a>
